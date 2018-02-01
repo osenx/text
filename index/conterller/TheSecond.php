@@ -7,6 +7,6 @@
  */
 class TheSecond{
     function index(){
-        echo 'TheSecond';
+        echo '第二';
     }
 }
